@@ -1,8 +1,8 @@
 # :stars: **NASRIN PARVIN** :stars:
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Nasrin0/Nasrin0.git)
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Welcome, This is Nasrin Parvin.
-- 🌱 About: I am a genomics enthusiast. I was a active member of Genome India project.
-- Hackbio Internship is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and      computational biology skills.
+- 🌱 About: I am a genomics🧬enthusiast, still exploring and finding all possible learning platforms.
+- |Genome India project| Actively contributed to the Genome India Project as a member of the research group. Experienced in all stages of NGS workflows, including sample preparation, library construction, sequencing, and data generation.
 
 <p align="center">
    <br>
